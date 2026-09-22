@@ -1,2 +1,4 @@
 # DataScience
-IBM Data Scienc Capstone Project
+IBM Data Science Capstone Project
+
+This is where my capstone project will be saved
